@@ -1,0 +1,39 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Bio-Design Automation Consortium
+    url: 'https://www.bio-design-automation.org'
+    weight: 5
+  #- name: Keynote
+  #  url: '/2023/#keynote'
+  #  weight: 10
+  #- name: Registration
+  #  url: '/2023/#registration'
+  #  weight: 15
+  #- name: Logistics
+  #  url: '/2023/#logistics'
+  #  weight: 20
+  #- name: Agenda
+  #  url: '/2023/#agenda'
+  #  weight: 30
+  #- name: Call for Papers
+  #  url: '2023/#cfp'
+  #  weight: 30
+  #- name: Call for Workshops
+  #  url: '2023/#cfw'
+  #  weight: 40
+  #- name: 2023 Special Issue
+  #  url: '2023/#special-issue-2023'
+  #  weight: 40
+  #- name: Organising Committee
+  #  url: 'committee'
+  #  weight: 50
+  #- name: Previous Years
+  #  url: 'previous-years'
+  #  weight: 60
+  #- name: Previous Special Issues
+  #  url: 'special-issues'
+  #  weight: 70

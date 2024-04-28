@@ -1,0 +1,28 @@
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .image-item {
+    flex: 0 0 32%; /* Show 3 items per row by default */
+    margin-bottom: 1.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .image-item {
+      flex: 0 0 48%; /* Show 2 items per row on medium screens */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .image-item {
+      flex: 0 0 100%; /* Show 1 item per row on small screens */
+    }
+  }
+  
+  .image-item img {
+    width: 300px;
+    height: auto;
+  }

@@ -1,0 +1,151 @@
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #2e3092;
+  font-family: 'Exo', sans-serif;
+  font-weight: normal;
+}
+h5 {
+  font-size: 110%
+}
+#strip {
+  background: #911826;
+  height: 5px;
+  width: 100%;
+}
+#logo {
+  padding-top: 10px;
+}
+#logo h4 {
+  margin-top: 20px;
+}
+#logo a.brand {
+  color: #000;
+}
+#logo a.brand:hover {
+  text-decoration: none;
+}
+#nav .nav-pills > li {
+  margin-right: 20px;
+}
+#nav .nav-pills > li > a {
+  color: #333;
+  padding: 0;
+}
+#nav .nav-pills > li > a:hover {
+  color: #911826;
+  background: #fff;
+}
+#nav .nav-pills > .active > a,
+#nav .nav-pills > .active > a:hover {
+  color: #911826;
+  background-color: #fff;
+  font-weight: bold;
+}
+#content {
+  margin-top: 25px;
+}
+#content h4 {
+  color: #911826;
+}
+#content div.row {
+  margin-top: 20px;
+}
+.center {
+  text-align: center;
+}
+table.iwbda
+{
+font-size:1em;
+border:1px solid #911826;
+padding:3px 7px 2px 7px;
+text-align:center;
+}
+table.iwbda th
+{
+font-size:1em;
+border:1px solid #911826;
+padding:3px 7px 2px 7px;
+text-align:center;
+}
+table.iwbda td
+{
+font-size:1em;
+border:1px solid #911826;
+padding:3px 7px 2px 7px;
+text-align:center;
+}
+table.iwbda td.rowlabel
+{
+text-align:left;
+}
+table.iwbda th
+{
+font-size:1.1em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#1E90FF;
+color:#ffffff;
+}
+table.iwbda tr.alt td 
+{
+color:#000000;
+background-color:#87CEFA;
+}
+
+div.spread3evenly > div {
+    display: inline-block;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    width: 33%;
+    text-align: center;
+}
+
+div.spread2evenly > div {
+    display: inline-block;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    width: 49%;
+    text-align: center;
+}
+
+div.centerImg {
+	display: flex;
+	*display: inline; /*For IE7 */
+	zoom: 1;
+	width: 33%;
+	text-align: center;
+	align-content: center;
+}
+
+img.logo {
+	width: 200;
+}
+
+div.centerImgLrg {
+	display: inline-block;
+	*display: inline; /*For IE7 */
+	zoom: 1;
+	width: 50%;
+	text-align: center;
+}
+
+div.centerImgLrg > div {
+	align: center;
+}
+
+.speaker { 
+  /*font-family:arial; 
+  font-size: 6px; */
+  font-weight:bold;
+}
+
+th.session {
+color: #010101;
+text-align: left;
+}
