@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://bio-innovation-week.org/sitemap.xml
+Sitemap: https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/sitemap.xml
