@@ -63,11 +63,18 @@ topics:
 user_groups:
 - Current Event
 
+
+# Move this below if required.
+## Events
+#{{< figure src="iwbda2023_logo_small.png" title="" lightbox="false" link="https://www.iwbdaconf.org">}}
+#{{< figure src="damplab_logo_small.png" title="" lightbox="false" link="https://www.damplab.org/iwbma">}}
+#{{< figure src="nonasoftware_logo_small.png" title="" lightbox="false" link="https://www.nonasoftware.com/nonaworks24">}}
+
 ---
 
-<!--<img src="/images/iwbda2023/IWBDA2023_logo.png" alt="demo" class="img-responsive">-->
-Introducing **Bio Innovation Week**, a new annual event to bring people together to meet and discuss topics focused on the intersection of synthetic biology, systems biology, computer aided design, and lab automation. Bio Design Week will include the annual **International Workshop on Bio-Design Automation (IWBDA)**, **International Workshop on Bio Manufacturing Automation (IWBMA)**, a **Nona Works hackathon**, **SBOL Workshops**, and additional meetings and workshops on relevant topics, social events.
+Introducing **Bio Innovation Week**, a new annual event to bring people together to meet and discuss topics focused on the intersection of synthetic biology, systems biology, computer aided design, and lab automation. Bio Design Week will include the annual **[International Workshop on Bio-Design Automation (IWBDA)](https://www.iwbdaconf.org)**, **[International Workshop on Bio Manufacturing Automation (IWBMA)](https://www.damplab.org/iwbma)**, a **[Nona Works hackathon](https://www.nonasoftware.com/nonaworks24)**, **[SBOL Workshops](https://sbolstandard.org)**, and additional meetings and workshops on relevant topics, social events.
 Bio Design Week offers a forum for cross-disciplinary discussion, with the aim of seeding and fostering collaboration between the biological and the design automation research communities.
+
 
 
 Bio Design Week and IWBDA are organized by the non-profit [Bio-Design Automation Consortium (BDAC)](https://www.bio-design-automation.org). The Nona Works Hackathon is organized by the [Nona Research Foundation](https://www.nonasoftware.com/). BDAC and the Nona Research Foundation are both officially recognized 501(c)(3) tax exempt organizations.
