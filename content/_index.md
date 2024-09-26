@@ -59,6 +59,70 @@ sections:
         latitude: '42.349228822225356'
         longitude: '-71.10150585063934'
 
+  - block: markdown
+    id: agenda
+    content:
+      title: Agenda
+      text: |- 
+          # Bio-Design Week - November 16-19, 2024
+
+          ## Saturday, November 16 - 610 Commonwealth Avenue, CILSE 101
+
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-09:10** Welcome and kick-off of Bio-Design Week
+          - **09:10-10:10** Keynote
+          - **10:10-10:40** Coffee break
+          - **10:40-12:00** 
+            - SBOL Visual Workshop
+            - NonaWorks Logistics, Examples, Demos (TBD)
+          - **12:00-13:00** Lunch
+          - **13:00-15:00** 
+            - IWBDA Talks
+            - NonaWorks + Office Hours
+          - **15:00-15:30** Coffee break
+          - **15:30-17:00** Nona Works: Present Proposals
+          - **17:00-18:00** Networking Reception
+
+          ## Sunday, November 17 - 610 Commonwealth Avenue, CILSE 101
+
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-10:20** IWBDA Talks
+          - **10:20-10:45** Coffee break
+          - **10:45-12:00** SBOL Data Model Workshop
+          - **12:00-13:00** Lunch
+          - **13:00-14:20** IWBDA Talks
+          - **14:20-14:40** Coffee break
+          - **14:40-17:00** IWBDA Talks
+          - **08:30-17:00** NonaWorks Office Hours
+
+          ## Monday, November 18 - 8 St. Mary's Street, Photonics 906
+
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-10:20** IWBDA Talks
+          - **10:20-10:45** Coffee break
+          - **10:45-11:45** Keynote: DARPA BTO Head Michael Koeris
+          - **11:45-13:20** Lunch
+          - **13:20-14:40** IWBMA Talks: Amplifying Science Through Automation
+          - **14:40-15:10** Coffee break
+          - **15:10-16:50** IWBDA Talks
+          - **08:30-16:50** NonaWorks Office Hours
+          - **17:00-20:30** Dinner
+
+          ## Tuesday, November 19 - 610 Commonwealth Avenue, CILSE 101
+
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-09:45** NonaWorks Presentations and Voting
+          - **09:45-10:15** Coffee break
+          - **10:30-11:30** Brainstorming
+          - **11:30-12:00** Brainstorming and Summary
+          - **12:00-13:00** Lunch
+          - **13:00-14:00** IWBMA Industry Talks
+          - **14:00-15:00** IWBDA Talks
+          - **13:00-15:00** NonaWorks Office Hours
+          - **15:00-15:20** Awards and Closing Remarks
+          - **15:20-17:30** Vendor Booths & Cocktail Hour & DAMP Lab Tours in 106B and 106D
+
+
   - block: people
     content:
       title: Organising Committee
