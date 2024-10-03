@@ -58,7 +58,16 @@ sections:
       coordinates:
         latitude: '42.349228822225356'
         longitude: '-71.10150585063934'
-
+  
+  - block: markdown
+    id: registration
+    content:
+      title: Registration
+      text: |- 
+        <link rel="stylesheet" type="text/css" href="https://www.brownpapertickets.com/widget_v671.css" /> <DIV ID="bpt_eventbody"><CENTER><BR><BR>Brown Paper Tickets Ticket Widget Loading...<BR><BR><A HREF="https://www.brownpapertickets.com/event/6463652">Click Here</A> to visit the Brown Paper Tickets event page.</CENTER><BR><BR></DIV> <script src="https://www.brownpapertickets.com/eventwidget.js?event=6463652&nodescription=1" type="text/javascript" language="javascript"></script> <script src="https://www.brownpapertickets.com/widget_v671.js?event=6463652" type="text/javascript" language="javascript"></script>
+    design:
+      columns: '2'
+  
   - block: markdown
     id: agenda
     content:
