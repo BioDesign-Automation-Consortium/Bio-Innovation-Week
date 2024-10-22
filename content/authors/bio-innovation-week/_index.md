@@ -72,6 +72,15 @@ user_groups:
 
 ---
 
+# Announcements
+
+## IWBDA Scholarships
+IWBDA Scholarships are available for students, postdocs, and young researchers. {{<staticref "uploads/IWBDA_Scholarships_2024.pdf" "newtab">}} Please see this PDF for details.{{</staticref>}}.
+
+This year applications will be accepted via this Google form: [Scholarship Application Form](https://forms.gle/MrButFeYMsefvs8i7).
+
+## Bio Innovation Week
+
 Introducing **Bio Innovation Week**, a new annual event to bring people together to meet and discuss topics focused on the intersection of synthetic biology, systems biology, computer aided design, and lab automation. Bio Design Week will include the annual **[International Workshop on Bio-Design Automation (IWBDA)](https://www.iwbdaconf.org)**, **[International Workshop on Bio Manufacturing Automation (IWBMA)](https://www.damplab.org/iwbma)**, a **[Nona Works hackathon](https://www.nonasoftware.com/nonaworks24)**, **[SBOL Workshops](https://sbolstandard.org)**, and additional meetings and workshops on relevant topics, social events.
 Bio Design Week offers a forum for cross-disciplinary discussion, with the aim of seeding and fostering collaboration between the biological and the design automation research communities.
 
