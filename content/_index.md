@@ -78,26 +78,25 @@ sections:
           ## Saturday, November 16 - 610 Commonwealth Avenue, CILSE 101
 
           - **08:30-09:00** Registration and light breakfast
-          - **09:00-09:10** Welcome and kick-off of Bio-Design Week
-          - **09:10-10:10** Keynote
+          - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
+          - **09:10-10:10** Keynote - Dr Roseanna N. Zia: Colloidal Physics Instantiates Life in Biological Cells
           - **10:10-10:40** Coffee break
           - **10:40-12:00** 
-            - SBOL Visual Workshop
+            - SBOL Data Model Workshop
             - NonaWorks Logistics, Examples, Demos (TBD)
           - **12:00-13:00** Lunch
-          - **13:00-15:00** 
-            - IWBDA Talks
+          - **13:00-14:20** 
+            - SBOL Visual Workshop
             - NonaWorks + Office Hours
-          - **15:00-15:30** Coffee break
-          - **15:30-17:00** Nona Works: Present Proposals
-          - **17:00-18:00** Networking Reception
+          - **14:20-15:00** Coffee break
+          - **15:00-16:00** Nona Works: Present Proposals
 
           ## Sunday, November 17 - 610 Commonwealth Avenue, CILSE 101
 
           - **08:30-09:00** Registration and light breakfast
-          - **09:00-10:20** IWBDA Talks
+          - **09:00-10:20** Managing lab info
           - **10:20-10:45** Coffee break
-          - **10:45-12:00** SBOL Data Model Workshop
+          - **10:45-12:00** Managing lab info
           - **12:00-13:00** Lunch
           - **13:00-14:20** IWBDA Talks
           - **14:20-14:40** Coffee break
@@ -107,9 +106,9 @@ sections:
           ## Monday, November 18 - 8 St. Mary's Street, Photonics 906
 
           - **08:30-09:00** Registration and light breakfast
-          - **09:00-10:20** IWBDA Talks
-          - **10:20-10:45** Coffee break
-          - **10:45-11:45** Keynote: DARPA BTO Head Michael Koeris
+          - **09:00-10:00** Keynote - Dr. Michael Koeris
+          - **10:00-10:25** Coffee break
+          - **10:25-11:45** Synbiohub Workshop
           - **11:45-13:20** Lunch
           - **13:20-14:40** IWBMA Talks: Amplifying Science Through Automation
           - **14:40-15:10** Coffee break
