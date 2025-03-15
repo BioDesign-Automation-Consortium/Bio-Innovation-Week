@@ -4,9 +4,9 @@ title: Bio Innovation Week
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: 16-19 November, 2024
+conf_date: September, 2025
 
-conf_location: Boston, Massachusetts, USA
+conf_location: Worcester, Massachusetts, USA
 
 important_dates:
 # - name: Abstract submission - Early deadline

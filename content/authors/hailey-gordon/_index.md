@@ -111,7 +111,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organising Committee
+- Organising Committee 2024
 
 # # #any user groups to display on the page
 # display_groups:

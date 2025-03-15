@@ -8,7 +8,7 @@ summary: <a href="https://www.iwbdaconf.org">The International Workshop on Bio-D
 # Link this post with a project
 projects: []
 
-external_link: https://www.iwbdaconf.org
+external_link: https://www.iwbdaconf.org/2024
 
 # Date published
 date: '2024-16-09'
